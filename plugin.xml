@@ -9,6 +9,6 @@
     <engine name="cordova" version=">=3.0.0" />
   </engines>
 
-  <hook type="before_build" src="hooks/beforeBuild.js" />
+  <hook type="before_prepare" src="hooks/beforePrepare.js" />
 
 </plugin>
