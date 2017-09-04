@@ -14,8 +14,6 @@ Add this plugin to your Cordova project.
 
     cordova plugin add https://github.com/metova/coffee-script-cordova-plugin
 
-	Since Cordova CLI 7 all the plugins need a package.json file !
-	
 ## Usage
 
 Never think about compiling your CoffeeScript again!
