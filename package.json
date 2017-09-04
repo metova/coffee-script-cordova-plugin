@@ -1,0 +1,28 @@
+{
+  "name": "coffee-script-cordova-plugin",
+  "version": "0.0.1",
+  "description": "A CoffeeScript Plugin for Cordova.",
+  "cordova": {
+    "id": "com.metova.cordova.coffeescript",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metova/coffee-script-cordova-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Metova, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metova/coffee-script-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/metova/coffee-script-cordova-plugin#readme"
+}
